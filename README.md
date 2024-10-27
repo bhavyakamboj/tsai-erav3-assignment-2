@@ -1,4 +1,8 @@
+
 Youtube demo : https://youtu.be/IBkres9aQy4
+
+https://github.com/user-attachments/assets/7694287e-d57b-4dde-a8d9-7a3364eef663
+
 # Prompts
 Prompt 1 :
 ``` 
