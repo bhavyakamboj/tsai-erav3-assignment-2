@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#animalImage {
+  max-width: 100%;
+  max-height: 300px;
+  display: none;
+}
+
+#fileInfo {
+  margin-top: 10px;
+}
